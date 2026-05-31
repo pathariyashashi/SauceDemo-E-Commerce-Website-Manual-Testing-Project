@@ -44,4 +44,4 @@ This project demonstrates Manual Testing performed on the SauceDemo E-Commerce A
 
 Shashi Pathariya
 MCA Graduate
-QA Engineer | Python | SQL | Manual Testing
+| Python | SQL | Manual Testing
